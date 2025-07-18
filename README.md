@@ -1,2 +1,0 @@
-# anjostour-website
-Anjos Tour
